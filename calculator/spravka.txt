@@ -1,0 +1,19 @@
+BACKGROUND
+
+A simple keyboard simulator will allow you to learn how to quickly type in English.
+Key presses are accompanied by animation on the screen.
+This simulator is indispensable for novice computer users,
+helps you memorize the positions of letters on the keyboard,
+and also extremely useful for children!
+
+Rules:
+
+- letters fall from the top of the screen in random places
+- initial bonus - 10 points
+- you need 100 points to win!
+- when you press the right key, points are added, if the letter "breaks" - points are deducted.
+- if the number of points is less than 2, you will lose...
+- return to the menu by pressing the Escape key.
+
+
+Press Escape to return to the main menu now! 

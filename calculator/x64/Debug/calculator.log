@@ -1,0 +1,26 @@
+﻿  calculator.cpp
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(40,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(40,28): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(48,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(48,34): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(82,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(82,25): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(108,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(138,11): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(138,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(190,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(190,36): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(209,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(209,35): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(241,2): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(242,2): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(243,2): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(257,6): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(258,6): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(261,6): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(262,6): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(273,6): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(274,6): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(278,6): error C3861: Stand: идентификатор не найден
+C:\Users\lolim\Desktop\C++\calculator\calculator.cpp(279,6): error C3861: Stand: идентификатор не найден
